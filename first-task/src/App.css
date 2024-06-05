@@ -1,0 +1,39 @@
+.main
+{
+    background-color: rgb(0, 145, 255); 
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+ul
+{
+  list-style: none;
+  display: flex;
+}
+.first-con
+{
+  padding-left: 20px;
+  padding-top: 5px;
+}
+.first-con a 
+{
+  text-decoration: none;
+  color: black;
+}
+.icon
+{
+  font-size: 20px;
+}
+.first-con1
+{
+  padding-right: 30px;
+}
+.Content-first
+{
+  width: 100%;
+}
+.Content-first img 
+{
+  width: 100%;
+  height: 650px;
+}
